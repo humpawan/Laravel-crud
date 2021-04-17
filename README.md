@@ -19,3 +19,7 @@ composer require hum/crud:dev-main
 Example
 -------
 ```php
+use hum\crud\Crud;
+
+$humcrud = new Crud();
+return $humcrud->testgreet("HUM");
