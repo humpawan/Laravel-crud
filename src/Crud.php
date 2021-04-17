@@ -4,7 +4,7 @@ namespace hum\crud;
 
 class Crud
 {
-    public function greet(String $sName)
+    public function testgreet(String $sName)
     {
         return 'Hi ' . $sName . '! How are you doing today?';
     }
