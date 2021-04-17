@@ -1,8 +1,8 @@
 # Laravel-crud
-[![Latest Stable Version](https://poser.pugx.org/phpunit/phpunit/v)](//packagist.org/packages/phpunit/phpunit) 
-[![Total Downloads](https://poser.pugx.org/phpunit/phpunit/downloads)](//packagist.org/packages/phpunit/phpunit) 
-[![Latest Unstable Version](https://poser.pugx.org/phpunit/phpunit/v/unstable)](//packagist.org/packages/phpunit/phpunit) 
-[![License](https://poser.pugx.org/phpunit/phpunit/license)](//packagist.org/packages/phpunit/phpunit)
+[![Latest Stable Version](https://poser.pugx.org/hum/crud/v)](//packagist.org/packages/hum/crud) 
+[![Total Downloads](https://poser.pugx.org/hum/crud/downloads)](//packagist.org/packages/hum/crud) 
+[![Latest Unstable Version](https://poser.pugx.org/hum/crud/v/unstable)](//packagist.org/packages/hum/crud)
+[![License](https://poser.pugx.org/hum/crud/license)](//packagist.org/packages/hum/crud)
 PHP-CRUD
 =======
 A simple library for laravel crud.
