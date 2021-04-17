@@ -12,7 +12,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "hum\\crud\\": "src/"
+            "Laravel-crud\\": "src/"
         }
     },
     "require": {}
